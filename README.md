@@ -8,7 +8,7 @@
 
 ## 💡 Sobre atividade
 
-O **O Dashboard** Foi elaborado para dar uma visão ampla das vendas com base nas perguntas de negócios, utlizando uma base de dados
+O **Dashboard** foi elaborado para dar uma visão ampla das vendas com base nas perguntas de negócios, utlizando uma base de dados
 para gerar informações.Com base em tabelas dinâmicas os dados foram transformados em Data View. 
 
 O Dashboard responde perguntas como:
