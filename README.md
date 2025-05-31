@@ -27,7 +27,7 @@ Além disso:
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Dados Utilizados
 
 - Planilhas de Base.
 - Planilha de Assets.
